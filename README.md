@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![MLX](https://img.shields.io/badge/Apple-MLX-black)](https://github.com/Scottcjn/mlx-power8) [![POWER8](https://img.shields.io/badge/IBM-POWER8-red)](https://github.com/Scottcjn/mlx-power8)
+
 # MLX Linux Port - POWER8 & x86 SIMD
 
 Port of Apple's MLX to Linux with native SIMD optimizations.
