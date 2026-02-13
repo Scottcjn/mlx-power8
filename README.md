@@ -35,3 +35,10 @@ Only the SIMD backend needed porting for each architecture.
 
 <!-- Analytics -->
 ![](http://50.28.86.131:9090/pixel/mlx-power8.gif)
+
+
+## 中文简介
+
+Elyan Labs POWER8/PowerPC 项目 - 为 IBM POWER 系统和复古 Mac 提供现代 AI 支持。
+
+Contributed by eelaine-wzw
