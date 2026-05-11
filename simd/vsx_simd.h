@@ -1,5 +1,5 @@
 // Copyright © 2025 Elyan Labs - POWER8 VSX SIMD for MLX
-// MIT License (same as MLX)
+// Apache License 2.0 (same as repository LICENSE)
 
 #pragma once
 
