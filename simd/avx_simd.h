@@ -1,5 +1,5 @@
 // Copyright © 2025 Elyan Labs - x86 AVX SIMD for MLX Linux
-// MIT License (same as MLX)
+// Apache License 2.0 (same as repository LICENSE)
 
 #pragma once
 
